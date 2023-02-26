@@ -15,7 +15,7 @@ $volTabung = phi*pow($r, 2)*$tTabung;
 echo 'volume tabung ='.round($volTabung,1)." m3\n";
 
 //volume kerucut v=1/3 phi*r2*t
-$tKerucut = 5;
+$tKerucut = 5;~
 $volKerucut = (phi*pow($r,2)*$tKerucut)/3;
 echo 'volume kerucut ='.round($volKerucut,1)." m3\n";
 
